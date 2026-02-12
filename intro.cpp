@@ -475,3 +475,22 @@
 // return 0;
 // }
 //----------------------------------------------------------------------------
+//  #include<bits/stdc++.h>
+// using namespace std ;
+// void sitapyari(){
+//     set<int>st;
+//     st.insert(1);
+//     st.emplace(4);
+//     st.insert(60);
+//     st.emplace(40);
+//     auto it1=st.find(1);
+//     auto it2=st.find(4);
+//     st.erase(it1,it2);
+// for(auto it=st.begin();it!=st.end();it++){
+//     cout<<*it<<endl;
+// }
+// }
+// int main(){
+// sitapyari();
+// return 0;
+// }
